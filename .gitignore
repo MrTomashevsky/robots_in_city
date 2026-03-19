@@ -1,0 +1,11 @@
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+user_scripts/*.txt
+core/python_console.log
+
+background_with_line.png
+navigation_visualization_flipped.png

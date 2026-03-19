@@ -1,0 +1,56 @@
+[
+  {
+    "Type": "car",
+    "Tag": null,
+    "Points": null,
+    "Stroke": null,
+    "Thickness": null,
+    "Id": "3c48f3fe-e12d-4d39-a65e-752f6399f36a",
+    "X": 35,
+    "Y": 35,
+    "Width": 40,
+    "Height": 20,
+    "Fill": null,
+    "Angle": 0,
+    "Sensors": [
+      "IMU",
+      "UWB"
+    ]
+  },
+  {
+    "Type": "car",
+    "Tag": null,
+    "Points": null,
+    "Stroke": null,
+    "Thickness": null,
+    "Id": "d85aae3b-779f-47ec-82f7-4ec16adbaf32",
+    "X": 944,
+    "Y": 844,
+    "Width": 40,
+    "Height": 20,
+    "Fill": null,
+    "Angle": 0,
+    "Sensors": [
+      "IMU",
+      "UWB"
+    ]
+  },
+  {
+    "Type": "car",
+    "Tag": null,
+    "Points": null,
+    "Stroke": null,
+    "Thickness": null,
+    "Id": "b4b3e861-f2b2-4698-9991-e6d11e1b3ff5",
+    "X": 35,
+    "Y": 844,
+    "Width": 40,
+    "Height": 20,
+    "Fill": null,
+    "Angle": 0,
+    "Sensors": [
+      "IMU",
+      "UWB"
+    ]
+  }
+]
