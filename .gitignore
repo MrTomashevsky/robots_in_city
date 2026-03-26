@@ -6,6 +6,7 @@
 
 user_scripts/*.txt
 core/python_console.log
+core/multi_agent_simulation_log.json
 
 background_with_line.png
 navigation_visualization_flipped.png
